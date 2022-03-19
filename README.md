@@ -1,2 +1,4 @@
-# public-data-opioid-EWSS
-This repository serves data used by the Opioid Harms Data Portal.
+# Public Data: Opioid Early Warning and Surveillance System
+This repository data related to opioid poisonings that have been collected through the Peterborough Opioid Early Warning and Surveillance System.. 
+
+You can view visualizations of these data on Peterborough Public Health's [Opioid Harms Data Portal](https://www.peterboroughpublichealth.ca/your-health/drugs-and-harm-reduction/opioids/opioids-data/).
