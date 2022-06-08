@@ -1,2 +1,13 @@
-"date_featured_month","drug_deaths_featured_month","last_12_months_start_date","last_12_months_end_date","drug_deaths_last_12_months","days_between_drug_deaths"
-2022-05-01,1,2021-06-01,2022-05-31,38,9
+"month","n_drug_deaths"
+2021-06-01,1
+2021-07-01,5
+2021-08-01,2
+2021-09-01,2
+2021-10-01,3
+2021-11-01,6
+2021-12-01,2
+2022-01-01,3
+2022-02-01,3
+2022-03-01,2
+2022-04-01,8
+2022-05-01,1
