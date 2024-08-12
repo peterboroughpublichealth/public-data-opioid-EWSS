@@ -1,2 +1,2 @@
-date_featured_month,date_previous_month,date_same_month_last_year,CFS_featured_month,CFS_previous_month,CFS_same_month_last_year,CFS_change_f_vs_p,CFS_change_f_vs_smly,interpretation_f_vs_p,interpretation_f_vs_smly,conjunction_f_vs_p,conjunction_f_vs_smly
-6/1/2024,5/1/2024,6/1/2023,NA,27,25,NA,NA,NA,NA,than,than
+"date_featured_month","date_previous_month","date_same_month_last_year","CFS_featured_month","CFS_previous_month","CFS_same_month_last_year","CFS_change_f_vs_p","CFS_change_f_vs_smly","interpretation_f_vs_p","interpretation_f_vs_smly","conjunction_f_vs_p","conjunction_f_vs_smly"
+2024-07-01,2024-06-01,2023-07-01,25,8,38,17,-13,"more","less","than","than"
